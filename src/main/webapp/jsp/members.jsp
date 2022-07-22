@@ -1,6 +1,6 @@
-<%@ page import="hello.servlet.domain.member.Member" %>
+<%@ page import="hello.servlet.mvcbasic.domain.member.Member" %>
 <%@ page import="java.util.List" %>
-<%@ page import="hello.servlet.domain.member.MemberRepository" %><%--
+<%@ page import="hello.servlet.mvcbasic.domain.member.MemberRepository" %><%--
   Created by IntelliJ IDEA.
   User: parksungbum
   Date: 2022/07/21

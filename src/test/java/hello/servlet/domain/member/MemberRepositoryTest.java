@@ -1,12 +1,12 @@
 package hello.servlet.domain.member;
 
+import hello.servlet.mvcbasic.domain.member.Member;
+import hello.servlet.mvcbasic.domain.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.assertj.core.api.Assertions.*;
 
 class MemberRepositoryTest {
